@@ -10,12 +10,21 @@ This is my journal of the design and building process of **Ping Pong Ball Launch
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/441).
 
 
-## 10/12/2025 - Planed  
+## 10/12/2025 8 AM - Planed  
 
 Planned out the look of the handheld ping-pong ball launcher and how it would work by using two DC motors powered by a 3.3V 2200 mAh battery. The launcher will have a long tube that holds several ping-pong balls in a line so it can shoot one at a time or continuously. The motors will spin two wheels that launch each ball forward when the trigger is pressed.
 
 The battery and wiring will be placed in the handle for balance, and if you hold down the trigger, it will cause automatic instead of single fire. The outside will have a simple, compact shape that’s easy to hold and aim.
 
 ![Screenshot 2025-10-12 083812.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--6865112809b2f76252e93de6b439c309c3cb75af/Screenshot%202025-10-12%20083812.png)
+  
+
+## 10/12/2025 2 PM - Started CAD  
+
+Started the CAD design of the sentry by making the rollers and path for the ball. I also made a gear for the vertical tilt of the launcher part. I plan on next making a base that gives it horizontal motion and finishing the vertical tilt by making a smaller gear next to the big one powered by a servo for slow but efficient adjustments.
+
+
+![Screenshot 2025-10-12 143341.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b45921ddd3f5ee35e158510b9cac1466d6b61de3/Screenshot%202025-10-12%20143341.png)
+![Screenshot 2025-10-12 143355.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--65ca28311151cc4b9ca4d5da1916c46ad1012516/Screenshot%202025-10-12%20143355.png)
   
 
