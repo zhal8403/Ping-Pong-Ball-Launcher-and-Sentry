@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Ping Pong Ball Launcher and Sentry**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/441).
-
-
 ## 10/12/2025 8 AM - Planed  
 
 Planned out the look of the handheld ping-pong ball launcher and how it would work by using two DC motors powered by a 3.3V 2200 mAh battery. The launcher will have a long tube that holds several ping-pong balls in a line so it can shoot one at a time or continuously. The motors will spin two wheels that launch each ball forward when the trigger is pressed.
@@ -26,5 +22,39 @@ Started the CAD design of the sentry by making the rollers and path for the ball
 
 ![Screenshot 2025-10-12 143341.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b45921ddd3f5ee35e158510b9cac1466d6b61de3/Screenshot%202025-10-12%20143341.png)
 ![Screenshot 2025-10-12 143355.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--65ca28311151cc4b9ca4d5da1916c46ad1012516/Screenshot%202025-10-12%20143355.png)
+  
+
+## 11/8/2025 - Initial Feeder Design (Stepper Version)  
+
+CAD:
+
+Designed an initial tube feeder mechanism to hold and load ping pong balls into the launcher.
+
+Integrated mounting points for a stepper motor to rotate and feed one ball at a time.
+
+Ensured ball path alignment with the shooter section to prevent jams. 
+
+CAD Time: 1 hr 30 min
+
+Printing Time: 4 hrs 10 min (PLA, 20% infill, light supports)
+
+Mechanical:
+
+Installed the feeder tube and connected the stepper motor using small short screws.
+
+The stepper motor provided precise control for single-shot loading.
+
+Early mechanical testing showed reliable feeding but slow rotation due to motor torque limits.
+
+Testing:
+
+The stepper functioned well initially but later failed mechanically.
+
+Feed timing was consistent before failure.
+
+Mechanical/Testing Time: 4 hrs
+
+![Screenshot 2025-11-08 110437](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--d29404e06054e31c720193285e51b3d8b1a7141f/Screenshot%202025-11-08%20110437.png)
+![Screenshot 2025-11-08 110421](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ae07ea6b4302c625e06c62b3a7f62af32e306440/Screenshot%202025-11-08%20110421.png)
   
 
