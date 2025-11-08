@@ -90,3 +90,47 @@ Testing Time: 35 min
 
 ![Screenshot 2025-11-08 111452](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--dd5af1a8d4eb00c00ae2a02138c54dda75e08618/Screenshot%202025-11-08%20111452.png)  
 
+## 11/8/2025 11:27 AM - Feeder Adjustments & Future Ideas  
+
+CAD:
+
+Reworked feeder geometry to better align with the launcher entrance.
+
+Tightened the fit around the feed slot and added a slight funnel shape for smoother ball guidance.
+
+CAD time: 1 hr 10 min
+
+Printing Time: 2 hrs 25 min (PLA, 20% infill)
+
+Mechanical:
+
+Reassembled the system with updated feeder and launcher spacing.
+
+Adjustments improved alignment and reduced misfeeds.
+
+Consider a dedicated DC motor feeder for faster automatic operation instead of the servo.
+
+Sanded the feeding tube for smoother feeding.
+
+Mechanical Time: 1 hr 25 min
+
+Testing:
+
+Repeated tests confirmed more reliable loading at slow speeds.
+
+Launcher consistent under manual control; servo still limited for full-auto firing.
+
+Next ideas include:
+
+Upgrading the feeder to a DC motor via the L298N driver
+
+Testing higher voltages for increased launch power
+
+Testing Time: 50 min 
+
+![IMG_3307](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ4MywicHVyIjoiYmxvYl9pZCJ9fQ==--893015f52727632e303ef1d09383d06a96e0ddfd/IMG_3307.jpeg)
+![IMG_3309](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--8477a28c8f5258f661feaaab6c8b447edd457999/IMG_3309.jpeg)
+![IMG_3308](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--6c5dfd28abd0917ada2e94cea0e715e7ea0b3cdc/IMG_3308.jpeg)
+
+  
+
