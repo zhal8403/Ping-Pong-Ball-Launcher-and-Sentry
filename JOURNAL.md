@@ -24,7 +24,7 @@ Started the CAD design of the sentry by making the rollers and path for the ball
 ![Screenshot 2025-10-12 143355.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--65ca28311151cc4b9ca4d5da1916c46ad1012516/Screenshot%202025-10-12%20143355.png)
   
 
-## 11/8/2025 - Initial Feeder Design (Stepper Version)  
+## 11/8/2025 11:07 AM - Initial Feeder Design (Stepper Version)  
 
 CAD:
 
@@ -57,4 +57,36 @@ Mechanical/Testing Time: 4 hrs
 ![Screenshot 2025-11-08 110437](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--d29404e06054e31c720193285e51b3d8b1a7141f/Screenshot%202025-11-08%20110437.png)
 ![Screenshot 2025-11-08 110421](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ae07ea6b4302c625e06c62b3a7f62af32e306440/Screenshot%202025-11-08%20110421.png)
   
+
+## 11/8/2025 11:15 AM - Continuous Servo Replacement  
+
+CAD:
+
+Adjusted the feeder mount to fit an SG90 continuous rotation servo in place of the stepper.
+
+Modified motor bracket and output coupling for direct servo drive.
+
+CAD Time: 30 min
+
+Printing Time: 1 hr 50 min (PLA, 15% infill)
+
+Mechanical:
+
+Installed the continuous servo into the revised mount.
+
+The operation allowed single-fire shots or slow automatic feeding, depending on control timing.
+
+Servo torque was sufficient for light loads but lacked precision for multi-shot control.
+
+Mechanical Time: 20 min
+
+Testing:
+
+Feeding worked but was slower than desired.
+
+Observed some inconsistent rotation under load; considering switching to a DC feeder motor for higher speed. could be coding issues.
+
+Testing Time: 35 min
+
+![Screenshot 2025-11-08 111452](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--dd5af1a8d4eb00c00ae2a02138c54dda75e08618/Screenshot%202025-11-08%20111452.png)  
 
